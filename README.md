@@ -6,11 +6,11 @@ Title: "An Exploratory Study of Diversity Among Computer Science Graduate Studen
 
 Authors: Ghazal Kalhor, Tanin Zeraati, Behnam Bahrak
 
-DOI: -
+DOI: https://doi.org/10.48550/arXiv.2302.00589
 
 If you use this dataset in your work, please cite our paper:
 
-Kalhor, G., Zeraati, T. & Bahrak, B. An exploratory study of diversity among computer science graduate students at top north american universities. *submitted to Journal of Informetrics* (2023).
+Kalhor, G., Zeraati, T. & Bahrak, B. An exploratory study of diversity among computer science graduate students at top north american universities. *submitted to EPJ Data Science* (2023). https://doi.org/10.48550/arXiv.2302.00589
 
 # Dataset
 
