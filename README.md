@@ -2,7 +2,7 @@
 
 This repository contains the dataset of 13,936 graduate students majoring in computer science at the top 25 North American universities we collected in 2022 and analyzed in this paper:
 
-Title: "An Exploratory Study of Diversity Among Computer Science Graduate Students at Top North American Universities"
+Title: "Diversity Dilemmas: Uncovering Gender and Nationality Biases in Graduate Admissions Across Top North American Computer Science Programs"
 
 Authors: Ghazal Kalhor, Tanin Zeraati, Behnam Bahrak
 
@@ -10,7 +10,7 @@ DOI: https://doi.org/10.48550/arXiv.2302.00589
 
 If you use this dataset in your work, please cite our paper:
 
-Kalhor, G., Zeraati, T. & Bahrak, B. An exploratory study of diversity among computer science graduate students at top north american universities. *under review at EPJ Data Science* (2023). https://doi.org/10.48550/arXiv.2302.00589
+Kalhor, G., Zeraati, T. & Bahrak, B. Diversity dilemmas: uncovering gender and nationality biases in graduate admissions across top North American computer science programs. *under review at EPJ Data Science* (2023). https://doi.org/10.48550/arXiv.2302.00589
 
 # Dataset
 
