@@ -2,11 +2,11 @@
 
 This repository contains the dataset of 13,936 graduate students majoring in computer science at the top 25 North American universities we collected in 2022 and analyzed in this paper:
 
-Title: "Diversity Dilemmas: Uncovering Gender and Nationality Biases in Graduate Admissions Across Top North American Computer Science Programs"
+**Title**: "Diversity Dilemmas: Uncovering Gender and Nationality Biases in Graduate Admissions Across Top North American Computer Science Programs"
 
-Authors: Ghazal Kalhor, Tanin Zeraati, Behnam Bahrak
+**Authors**: Ghazal Kalhor, Tanin Zeraati, Behnam Bahrak
 
-DOI: https://doi.org/10.48550/arXiv.2302.00589
+**DOI**: https://doi.org/10.48550/arXiv.2302.00589
 
 If you use this dataset in your work, please cite our paper:
 
