@@ -10,7 +10,7 @@ This repository contains the dataset of 13,936 graduate students majoring in com
 
 If you use this dataset in your work, please cite our paper:
 
-Kalhor, G., Zeraati, T. & Bahrak, B. Diversity dilemmas: uncovering gender and nationality biases in graduate admissions across top North American computer science programs. EPJ Data Sci. 12, 44 (2023). https://doi.org/10.1140/epjds/s13688-023-00422-5
+Kalhor, G., Zeraati, T. & Bahrak, B. Diversity dilemmas: uncovering gender and nationality biases in graduate admissions across top North American computer science programs. *EPJ Data Sci*. 12, 44 (2023). https://doi.org/10.1140/epjds/s13688-023-00422-5
 
 # Dataset
 
